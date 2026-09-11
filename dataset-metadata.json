@@ -1,0 +1,76 @@
+{
+  "title": "Ratelens MRP Mismatch Index (India)",
+  "id": "YOUR-KAGGLE-USERNAME/ratelens-mrp-mismatch-index",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "subtitle": "Amazon vs Flipkart: the same product with two different declared MRPs",
+  "description": "Monthly frozen editions of the Ratelens MRP Mismatch Index. In the August 2026 edition, 54 products carried a different declared MRP across Amazon.in and Flipkart; in 15 of them the selling price was effectively identical, leaving the discount badge as the only difference.\n\nUnder India's Legal Metrology (Packaged Commodities) Rules, MRP is a property of the product, not the shop. Where two platforms declare different MRPs, the advertised '% off' is calculated from a figure at least one of them has wrong.\n\nProducts are matched on manufacturer model code, not title text. Each edition is frozen on the last day of its month and never rewritten, so a cited figure stays true.\n\nIMPORTANT: this data does not show WHICH platform is wrong \u2014 with two sources it shows only that both cannot be right. The can_name column is false in exactly those cases. It does not establish intent; a wrong MRP may be a stale entry or a pack revision.\n\nLicence: CC BY 4.0. Canonical source and full methodology: https://www.ratelens.in/reports/mrp-mismatch/\nGitHub mirror: https://github.com/OmegaMatrix/ratelens-mrp-mismatch-index",
+  "keywords": [
+    "india",
+    "e-commerce",
+    "retail",
+    "pricing",
+    "consumer-protection"
+  ],
+  "resources": [
+    {
+      "path": "data/mrp-mismatch-2026-08.csv",
+      "description": "August 2026 edition, observed 2026-08-31.",
+      "schema": {
+        "fields": [
+          {
+            "name": "brand",
+            "description": "Manufacturer brand as listed."
+          },
+          {
+            "name": "model",
+            "description": "Manufacturer model code used to match the product across platforms."
+          },
+          {
+            "name": "slug",
+            "description": "Ratelens page identifier; resolves to `https://www.ratelens.in/product/<slug>/`"
+          },
+          {
+            "name": "a_price",
+            "description": "Selling price observed on the Amazon.in listing, INR."
+          },
+          {
+            "name": "a_mrp",
+            "description": "Maximum Retail Price declared by the Amazon.in listing, INR."
+          },
+          {
+            "name": "a_off",
+            "description": "Discount percentage advertised on the Amazon.in listing."
+          },
+          {
+            "name": "f_price",
+            "description": "Selling price observed on the Flipkart listing, INR."
+          },
+          {
+            "name": "f_mrp",
+            "description": "Maximum Retail Price declared by the Flipkart listing, INR."
+          },
+          {
+            "name": "f_off",
+            "description": "Discount percentage advertised on the Flipkart listing."
+          },
+          {
+            "name": "gap",
+            "description": "Percentage difference between the two declared MRPs."
+          },
+          {
+            "name": "grade",
+            "description": "Confidence that the mismatch is real: High, Medium or Low."
+          },
+          {
+            "name": "can_name",
+            "description": "True only when a third listing lets a majority identify which platform is the outlier. When false, the data shows the two declared MRPs cannot both be correct, but not which one is wrong."
+          }
+        ]
+      }
+    }
+  ]
+}
