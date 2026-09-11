@@ -1,0 +1,58 @@
+# Ratelens MRP Mismatch Index — August 2026 edition
+# Observed 2026-08-31. Frozen; this file does not change.
+# Source: https://www.ratelens.in/reports/mrp-mismatch/2026-08/  ·  CC BY 4.0
+brand,model,slug,a_price,a_mrp,a_off,f_price,f_mrp,f_off,gap,grade,can_name
+vgr,v228,vgr-v228,1899.0,3999.0,53,1899.0,2299.0,17,74,High,False
+vgr,v055,vgr-v055,799.0,2200.0,64,959.0,3660.0,74,66,High,False
+nova,nhs840,nova-nhs840,559.0,995.0,44,599.0,1495.0,60,50,High,False
+beurer,hs50,beurer-hs50,2399.0,6500.0,63,2844.0,4400.0,35,48,High,False
+meditive,flo01,meditive-flo01,1949.0,4999.0,61,1975.0,3499.0,44,43,High,False
+agaro,hd1214,agaro-hd1214,729.0,899.0,19,1235.0,1245.0,1,38,High,False
+oracura,oc300,oracura-oc300,3229.0,4650.0,31,2789.0,3450.0,19,35,High,False
+vega,vhsh26,vega-vhsh26,2149.0,2199.0,2,2149.0,2899.0,26,32,High,False
+caresmith,cs356,caresmith-cs356,1489.0,1850.0,20,1489.0,2375.0,37,28,High,False
+vega,vhbt01,vega-vhbt01,1138.0,1499.0,24,875.0,1199.0,27,25,High,False
+vega,vhbt03,vega-vhbt03,1479.0,1799.0,18,1649.0,2199.0,25,22,High,False
+havells,hd3161,havells-hd3161,1149.0,1555.0,26,1201.0,1875.0,36,21,High,False
+vega,vhcr01,vega-vhcr01,1562.0,1949.0,20,1599.0,2350.0,32,21,High,False
+havells,hd3151,havells-hd3151,1099.0,1415.0,22,1199.0,1695.0,29,20,High,False
+vega,vhch05,vega-vhch05,759.0,999.0,24,849.0,1199.0,29,20,High,False
+vega,vhdp02,vega-vhdp02,2000.0,2999.0,33,2292.0,2499.0,8,20,High,False
+vgr,v106,vgr-v106,2499.0,2580.0,3,2499.0,3099.0,19,20,High,False
+vgr,v937,vgr-v937,1399.0,1510.0,7,1399.0,1799.0,22,19,Medium,False
+vega,vhdh05,vega-vhdh05,740.0,999.0,26,819.0,1175.0,30,18,Medium,False
+vega professional,vpvhd06,vega-professional-vpvhd06,1164.24,1700.0,32,1540.0,2000.0,23,18,Medium,False
+vega,vhsh18,vega-vhsh18,885.0,1199.0,26,799.0,1399.0,43,17,Medium,False
+vega,vhss03,vega-vhss03,2394.0,3199.0,25,2394.0,3750.0,36,17,Medium,False
+havells,bt5100c,havells-bt5100c,699.0,1295.0,46,744.0,1495.0,50,15,Medium,False
+philips,bhd356,philips-bhd356,2599.0,3295.0,21,2787.0,3795.0,27,15,Medium,False
+vega,vhsb03,vega-vhsb03,1699.0,2299.0,26,1716.0,1999.0,14,15,Medium,False
+philips,bhd308,philips-bhd308,1605.0,2395.0,33,2029.0,2095.0,3,14,Medium,False
+vega,vhdh24,vega-vhdh24,1139.0,1399.0,19,1349.0,1599.0,16,14,Medium,False
+vega,vhdh36,vega-vhdh36,1100.0,1499.0,27,1275.0,1699.0,25,13,Medium,False
+dr physio,usa1036,dr-physio-usa1036,899.0,2500.0,64,1349.0,2812.0,52,12,Medium,False
+philips,s3144,philips-s3144,4195.0,5399.0,22,4621.0,5999.0,23,11,Medium,False
+vega,vhsc04,vega-vhsc04,1499.0,1799.0,17,1499.0,1999.0,25,11,Medium,False
+havells,ne6322,havells-ne6322,571.0,999.0,43,657.0,1095.0,40,10,Medium,False
+vega,vhdh29,vega-vhdh29,849.0,999.0,15,849.0,1099.0,23,10,Medium,False
+vega,vhdp03,vega-vhdp03,2469.0,3499.0,29,2649.0,3850.0,31,10,Medium,False
+vega,vhscc01,vega-vhscc01,1499.0,1999.0,25,1499.0,2199.0,32,10,Medium,False
+vega,vhsh42,vega-vhsh42,699.0,999.0,30,775.0,1099.0,29,10,Medium,False
+vega,vhth25,vega-vhth25,758.0,999.0,24,777.0,1099.0,29,10,Medium,False
+vega,vhsb04,vega-vhsb04,2249.0,2750.0,18,1966.0,2999.0,34,9,Medium,False
+philips,hp8120,philips-hp8120,848.0,1563.0,46,1051.0,1695.0,38,8,Medium,False
+vega,vhdh35,vega-vhdh35,1949.0,2399.0,19,1949.0,2599.0,25,8,Medium,False
+vega professional,vpvhd04,vega-professional-vpvhd04,2572.0,3250.0,21,2723.0,3500.0,22,8,Medium,False
+philips,bt3303,philips-bt3303,1675.0,1699.0,1,1303.0,1599.0,19,6,Medium,True
+havells,hs4101,havells-hs4101,799.0,1495.0,47,899.0,1395.0,36,7,Low,False
+philips,hp8302,philips-hp8302,939.0,1495.0,37,1285.0,1595.0,19,7,Low,False
+vega,vhsh28,vega-vhsh28,1099.0,1399.0,21,999.0,1499.0,33,7,Low,False
+vega,vhth30,vega-vhth30,1020.0,1599.0,36,1020.0,1499.0,32,7,Low,False
+vega,vhth36,vega-vhth36,1149.0,1599.0,28,1149.0,1499.0,23,7,Low,False
+vega professional,dry2000,vega-professional-dry2000,3080.0,3750.0,18,3095.0,4000.0,23,7,Low,False
+vega,vhsb06,vega-vhsb06,2320.0,3799.0,39,2320.0,3599.0,36,6,Low,False
+philips,qp2724,philips-qp2724,1599.0,2199.0,27,2021.0,2299.0,12,5,Low,False
+philips,x3063,philips-x3063,2678.0,3899.0,31,2678.0,3727.0,28,5,Low,False
+vgr,v071,vgr-v071,949.0,1999.0,53,970.0,1899.0,49,5,Low,False
+havells,hd3162,havells-hd3162,1681.0,2500.0,33,1587.0,2395.0,34,4,Low,False
+philips,s1151,philips-s1151,1940.0,2648.0,27,1940.0,2649.0,27,0,Low,False
