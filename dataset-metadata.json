@@ -17,7 +17,7 @@
   ],
   "resources": [
     {
-      "path": "data/mrp-mismatch-2026-08.csv",
+      "path": "mrp-mismatch-2026-08.csv",
       "description": "August 2026 edition, observed 2026-08-31.",
       "schema": {
         "fields": [

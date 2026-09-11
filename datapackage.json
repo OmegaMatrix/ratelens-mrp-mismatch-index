@@ -31,7 +31,7 @@
   "resources": [
     {
       "name": "mrp-mismatch-2026-08",
-      "path": "data/mrp-mismatch-2026-08.csv",
+      "path": "mrp-mismatch-2026-08.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "title": "MRP Mismatch Index \u2014 August 2026",

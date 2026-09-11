@@ -26,7 +26,7 @@ figure cited from it stays true.
 
 | Edition | Observed | Mismatches | Same selling price | Products matched | Listings observed | Data |
 |---|---|---|---|---|---|---|
-| [August 2026](https://www.ratelens.in/reports/mrp-mismatch/2026-08/) | 2026-08-31 | 54 | 15 | 197 | 6201 | [CSV](data/mrp-mismatch-2026-08.csv) |
+| [August 2026](https://www.ratelens.in/reports/mrp-mismatch/2026-08/) | 2026-08-31 | 54 | 15 | 197 | 6201 | [CSV](mrp-mismatch-2026-08.csv) |
 
 ## Columns
 
