@@ -6,17 +6,17 @@ Retail Prices for the same item**.
 Under India's Legal Metrology (Packaged Commodities) Rules, MRP is a property of
 the product, not of the shop: two retailers may charge different prices, but they
 should not publish different MRPs for the same item. Where they do, the
-advertised "% off" is calculated from a figure at least one of them has wrong —
+advertised **discount percentage** is calculated from a figure at least one of them has wrong,
 so the discount badge can differ even when the selling price is identical.
 
-In the August 2026 edition, **54 products**
+In the September 2026 edition, **74 products**
 carried a different declared MRP across the two platforms. In
 **15** of them the selling price was effectively the
 same, leaving the size of the discount badge as the only difference. The median
-gap between the two declared MRPs was **13.5%**.
+gap between the two declared MRPs was **11.5%**.
 
 **Canonical source:** https://www.ratelens.in/reports/mrp-mismatch/
-**Maintained by:** Ratelens (https://www.ratelens.in) — a price-comparison site for personal
+**Maintained by:** Ratelens (https://www.ratelens.in), a price-comparison site for personal
 grooming appliances in India.
 
 ## Editions
@@ -26,6 +26,7 @@ figure cited from it stays true.
 
 | Edition | Observed | Mismatches | Same selling price | Products matched | Listings observed | Data |
 |---|---|---|---|---|---|---|
+| [September 2026](https://www.ratelens.in/reports/mrp-mismatch/2026-09/) | 2026-09-30 | 74 | 15 | 232 | 9307 | [CSV](mrp-mismatch-2026-09.csv) |
 | [August 2026](https://www.ratelens.in/reports/mrp-mismatch/2026-08/) | 2026-08-31 | 54 | 15 | 197 | 6201 | [CSV](mrp-mismatch-2026-08.csv) |
 
 ## Columns
@@ -62,7 +63,7 @@ figure cited from it stays true.
 
 - **It does not say which platform is wrong.** With only two sources declaring
   an MRP, the data shows both cannot be right, not which one errs. The
-  `can_name` column is `false` in exactly those cases — which is most of them.
+  `can_name` column is `false` in exactly those cases, which is most of them.
 - **It does not establish intent.** A wrong MRP may be a stale catalogue entry,
   a pack revision, or a variant mismatch. Nothing here demonstrates otherwise.
 - **It is a sample, not a census.** Coverage is personal grooming appliances on
@@ -76,5 +77,5 @@ commercially, with attribution.
 
 ## Citation
 
-> Ratelens, "MRP Mismatch Index — August 2026", observed
-> 2026-08-31. https://www.ratelens.in/reports/mrp-mismatch/2026-08/
+> Ratelens, "MRP Mismatch Index, September 2026", observed
+> 2026-09-30. https://www.ratelens.in/reports/mrp-mismatch/2026-09/

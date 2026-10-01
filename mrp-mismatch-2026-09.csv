@@ -1,0 +1,78 @@
+# Ratelens MRP Mismatch Index, September 2026 edition
+# Observed 2026-09-30. Frozen; this file does not change.
+# Source: https://www.ratelens.in/reports/mrp-mismatch/2026-09/  ·  CC BY 4.0
+brand,model,slug,a_price,a_mrp,a_off,f_price,f_mrp,f_off,gap,grade,can_name
+vgr,v055,vgr-v055,799.0,1299.0,38,807.0,3660.0,78,182,High,False
+vgr,v228,vgr-v228,1399.0,3999.0,65,1999.0,2299.0,13,74,High,False
+vgr,v290,vgr-v290,1099.0,1285.0,14,1226.0,1999.0,39,56,High,False
+vgr,v596,vgr-v596,799.0,1290.0,38,799.0,1999.0,60,55,High,False
+nova,nhs840,nova-nhs840,599.0,995.0,40,599.0,1495.0,60,50,High,False
+beurer,hs50,beurer-hs50,2399.0,6500.0,63,2830.0,4400.0,36,48,High,False
+healthsense,hm170,healthsense-hm170,1399.0,2000.0,30,1399.0,1399.0,0,43,High,False
+meditive,flo01,meditive-flo01,1949.0,4999.0,61,1973.0,3499.0,44,43,High,False
+vgr,v722,vgr-v722,1957.0,2499.0,22,1999.0,3499.0,43,40,High,True
+agaro,hd1214,agaro-hd1214,758.0,899.0,16,1240.0,1245.0,0,38,High,False
+vgr,v071,vgr-v071,879.0,1399.0,37,970.0,1899.0,49,36,High,False
+oracura,oc300,oracura-oc300,3229.0,4650.0,31,2789.0,3450.0,19,35,High,False
+philips,hx6877,philips-hx6877,31025.82,49641.31,37,21419.0,37211.0,42,33,High,False
+vega,vhsh42,vega-vhsh42,775.0,999.0,22,761.0,1299.0,41,30,High,False
+caresmith,cs356,caresmith-cs356,1489.0,1850.0,20,1489.0,2375.0,37,28,High,False
+philips,hp6388,philips-hp6388,1492.0,1595.0,6,1492.0,1995.0,25,25,High,False
+vega,vhbt01,vega-vhbt01,1099.0,1499.0,27,875.0,1199.0,27,25,High,False
+vega,vhbt03,vega-vhbt03,1649.0,1799.0,8,1649.0,2199.0,25,22,High,False
+havells,hd3161,havells-hd3161,1149.0,1555.0,26,1199.0,1875.0,36,21,High,False
+philips,x3063,philips-x3063,2985.0,3899.0,23,2985.0,4699.0,36,21,High,False
+philips,mg794075,philips-mg794075,4185.0,4999.0,16,4794.0,5999.0,20,20,High,False
+vgr,v106,vgr-v106,1799.0,2580.0,30,2570.0,3099.0,17,20,High,False
+vgr,v937,vgr-v937,1099.0,1510.0,27,1409.0,1799.0,22,19,Medium,False
+vega professional,vpmhs08,vega-professional-vpmhs08,3811.0,4199.0,9,3812.0,4950.0,23,18,Medium,False
+vega professional,vpvhd06,vega-professional-vpvhd06,1247.14,1700.0,27,1750.0,2000.0,12,18,Medium,False
+flyder,3in1facemassager,flyder-3in1facemassager,388.0,599.0,35,419.0,699.0,40,17,Medium,False
+philips,bhd356,philips-bhd356,2397.0,3295.0,27,2499.0,3795.0,34,15,Medium,False
+vega,vhsb03,vega-vhsb03,1699.0,2299.0,26,1696.0,1999.0,15,15,Medium,False
+vega,vhscc01,vega-vhscc01,1590.0,2299.0,31,1590.0,1999.0,20,15,Medium,False
+havells,hc4085,havells-hc4085,2099.0,3495.0,40,3046.0,3995.0,24,14,Medium,False
+philips,bhd308,philips-bhd308,1799.0,2395.0,25,2029.0,2095.0,3,14,Medium,False
+vega,vhdh24,vega-vhdh24,1263.0,1399.0,10,1349.0,1599.0,16,14,Medium,False
+vega,vhss02,vega-vhss02,2249.0,2750.0,18,2347.0,3129.0,25,14,Medium,False
+ikonic,pro2800,ikonic-pro2800,5968.0,8750.0,32,5968.0,7750.0,23,13,Medium,False
+dr physio,usa1036,dr-physio-usa1036,899.0,2500.0,64,1349.0,2812.0,52,12,Medium,False
+philips,bhd318,philips-bhd318,2299.0,2495.0,8,2397.0,2795.0,14,12,Medium,False
+vega professional,vpphc04,vega-professional-vpphc04,5400.0,9000.0,40,8000.0,8000.0,0,12,Medium,False
+vega,vhsc04,vega-vhsc04,1499.0,1799.0,17,1704.0,1999.0,15,11,Medium,False
+agaro,hc8001,agaro-hc8001,899.0,995.0,10,984.0,1099.0,10,10,Medium,False
+havells,hs4121,havells-hs4121,1499.0,1995.0,25,1396.0,2195.0,36,10,Medium,False
+philips,hp8142,philips-hp8142,845.0,995.0,15,976.0,1095.0,11,10,Medium,False
+vega,vhdh26,vega-vhdh26,824.0,1099.0,25,970.0,999.0,3,10,Medium,False
+vega,vhdp03,vega-vhdp03,2849.0,3499.0,19,3238.0,3850.0,16,10,Medium,False
+vega,vhsb06,vega-vhsb06,2575.0,3299.0,22,2595.0,2999.0,13,10,Medium,False
+vega,vhsd03,vega-vhsd03,1249.0,1650.0,24,1326.0,1499.0,12,10,Medium,False
+vega,vhsb04,vega-vhsb04,2249.0,2750.0,18,2393.0,2999.0,20,9,Medium,False
+vega,vhsh26,vega-vhsh26,2149.0,2650.0,19,2149.0,2899.0,26,9,Medium,False
+vega,vhth25,vega-vhth25,849.0,1199.0,29,865.0,1099.0,21,9,Medium,False
+vega,vhdh25,vega-vhdh25,1499.0,2150.0,30,1594.0,1999.0,20,8,Medium,False
+vega,vhdh35,vega-vhdh35,1949.0,2399.0,19,2293.0,2599.0,12,8,Medium,False
+vega,vhsh18,vega-vhsh18,971.0,1199.0,19,801.0,1299.0,38,8,Medium,False
+vega professional,vpvhd04,vega-professional-vpvhd04,2695.0,3250.0,17,2630.0,3500.0,25,8,Medium,False
+philips,mg5930,philips-mg5930,3590.0,4295.0,16,3299.0,4095.0,19,5,Medium,True
+vgr,v733,vgr-v733,2173.0,3799.0,43,2199.0,3999.0,45,5,Medium,True
+philips,bhs393,philips-bhs393,1999.0,2195.0,9,1583.0,2199.0,28,0,Medium,True
+havells,hd1845,havells-hd1845,799.0,1300.0,39,955.0,1395.0,32,7,Low,False
+havells,hs4101,havells-hs4101,972.0,1495.0,35,999.0,1395.0,28,7,Low,False
+philips,hp8302,philips-hp8302,904.0,1495.0,40,904.0,1595.0,43,7,Low,False
+vega,vhdh05,vega-vhdh05,839.0,1175.0,29,765.0,1099.0,30,7,Low,False
+vega,vhsh28,vega-vhsh28,951.0,1399.0,32,1287.0,1499.0,14,7,Low,False
+vega,vhss03,vega-vhss03,2594.0,3499.0,26,2599.0,3750.0,31,7,Low,False
+vega,vhth36,vega-vhth36,1149.0,1599.0,28,1306.0,1499.0,13,7,Low,False
+vega professional,dry2000,vega-professional-dry2000,3080.0,3750.0,18,2849.0,4000.0,29,7,Low,False
+havells,hd3151,havells-hd3151,1017.0,1415.0,28,988.0,1495.0,34,6,Low,False
+philips,bt3303,philips-bt3303,1399.0,1599.0,13,1508.0,1699.0,11,6,Low,False
+philips,hp8120,philips-hp8120,848.0,1595.0,47,1099.0,1695.0,35,6,Low,False
+philips,hp814300,philips-hp814300,874.0,1095.0,20,976.0,1149.0,15,5,Low,False
+philips,qp2724,philips-qp2724,1649.0,2199.0,25,1880.0,2299.0,18,5,Low,False
+vega,vhch01,vega-vhch01,1449.0,1850.0,22,1449.0,1950.0,26,5,Low,False
+vega,vhth38,vega-vhth38,749.0,949.0,21,852.0,999.0,15,5,Low,False
+philips,bhc017,philips-bhc017,1590.0,1970.0,19,1635.0,1895.0,14,4,Low,False
+beurer,ipl10000,beurer-ipl10000,12990.0,40000.0,68,13451.0,41200.0,67,3,Low,False
+philips,bt1232,philips-bt1232,899.0,1075.0,16,878.0,1099.0,20,2,Low,False
+philips,s1151,philips-s1151,1799.0,2648.0,32,1799.0,2649.0,32,0,Low,False

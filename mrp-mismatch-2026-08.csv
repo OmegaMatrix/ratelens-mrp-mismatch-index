@@ -1,4 +1,4 @@
-# Ratelens MRP Mismatch Index — August 2026 edition
+# Ratelens MRP Mismatch Index, August 2026 edition
 # Observed 2026-08-31. Frozen; this file does not change.
 # Source: https://www.ratelens.in/reports/mrp-mismatch/2026-08/  ·  CC BY 4.0
 brand,model,slug,a_price,a_mrp,a_off,f_price,f_mrp,f_off,gap,grade,can_name
