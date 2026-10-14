@@ -16,6 +16,7 @@ same, leaving the size of the discount badge as the only difference. The median
 gap between the two declared MRPs was **11.5%**.
 
 **Canonical source:** https://www.ratelens.in/reports/mrp-mismatch/
+**Also on:** [Hugging Face](https://huggingface.co/datasets/Vasnathamani/ratelens-mrp-mismatch-index) and [Kaggle](https://www.kaggle.com/datasets/vasanthat/ratelens-mrp-mismatch-index)
 **Maintained by:** Ratelens (https://www.ratelens.in), a price-comparison site for personal
 grooming appliances in India.
 
